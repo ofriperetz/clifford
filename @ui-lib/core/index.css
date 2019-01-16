@@ -1,0 +1,7 @@
+:root {
+    --default-primary  : black;
+    --default-secondary: yellow;
+    --default-decorate : orange;
+    --default-warn     : red;
+    --default-info     : lightblue;
+}

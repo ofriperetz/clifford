@@ -1,0 +1,15 @@
+{
+  "name": "ui-lib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "workspaces": ["@ui-lib/*"],
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ofri Peretz",
+  "license": "ISC"
+}
