@@ -1,0 +1,11 @@
+:host {
+    position: relative;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--secondary, var(--default-secondary));;
+    width: 130px;
+    height: 35px;
+    background-color: var(--primary, var(--default-primary));
+    user-select: none;
+}

@@ -4,6 +4,7 @@
   "description": "",
   "dependencies": {
     "@polymer/paper-button": "^3.0.1",
+    "@polymer/paper-ripple": "^3.0.1",
     "@polymer/polymer": "^3.1.0"
   }
 }

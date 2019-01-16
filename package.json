@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "private": true,
-  "workspaces": ["@ui-lib/*"],
+  "workspaces": [
+    "@ui-lib/*"
+  ],
   "dependencies": {},
   "devDependencies": {},
   "scripts": {
