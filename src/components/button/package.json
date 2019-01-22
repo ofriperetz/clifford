@@ -1,0 +1,19 @@
+{
+  "name": "@ui-lib/td-button",
+  "version": "1.0.0", 
+  "description": "Define how do button will look like",
+  "main": "td-button.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0",
+    "@polymer/paper-ripple": "^3.0.1"
+  },
+  "peerDependencies": {},
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@polymer/test-fixture": "^4.0.2",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0",
+    "wct-mocha": "^1.0.0"
+  }
+}

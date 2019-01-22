@@ -1,0 +1,53 @@
+/*  
+    --d | Stands for "default" property
+*/
+
+/* Palette */
+:root {
+    /* Defaults */
+    --d-primary  : #333333;
+    --d-secondary: yellow;
+    --d-decorate : orange;
+    --d-warn     : red;
+    --d-info     : lightblue;
+
+    /* Core */
+    --d-ripple: rgba(173, 173, 173, 0.511);
+}
+
+/* Typography */
+:root {
+    --d-font-family: 'Assistant';
+    /* font: $font-weight $font-size/$line-height $font-family */
+
+    --d-h1-font: 300 112px/112px var(--d-font-family);
+    --d-h1-letter-spacing: -1.5px;
+    --d-h2-font: 400 56px/56px  var(--d-font-family);
+    --d-h2-letter-spacing: -0.5px;
+    --d-h3-font: 400 45px/48px var(--d-font-family);
+    --d-h3-letter-spacing: 0px;
+    --d-h4-font: 400 34px/40px var(--d-font-family);
+    --d-h4-letter-spacing: 0.25px;
+    --d-h5-font: 400 24px/32px var(--d-font-family);
+    --d-h5-letter-spacing: 0px;
+    --d-h6-font: 500 20px/32px var(--d-font-family);
+    --d-h6-letter-spacing: 0.15px;
+    --d-sub-h1-font: 400 16px/28px var(--d-font-family);
+    --d-sub-h1-letter-spacing: 0.15px;
+    --d-sub-h2-font: 400 15px/24px var(--d-font-family);
+    --d-sub-h2-letter-spacing: 0.1px;
+    
+    --d-body-font: 400 16px/20px var(--d-font-family);
+    --d-body-letter-spacing: 0.5px;
+
+    --d-body2-font: 500 14px/24px var(--d-font-family);
+    --d-body2-letter-spacing: 0.25px;
+
+    --d-caption-font: 400 12px/20px var(--d-font-family);
+    --d-caption-letter-spacing: 0.25px;
+    
+    --d-button-font: 400 16px/28px var(--d-font-family);
+    --d-button-letter-spacing: 1.25px;
+
+    --d-input-font: 400 inherit/1.125 var(--d-font-family);
+}
