@@ -36,6 +36,7 @@ class TdButton extends PolymerElement {
             height: 35px;
             margin: 1px;
             user-select: none;
+            cursor: pointer;
         
             /* for ripple */
             position: relative;

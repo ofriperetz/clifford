@@ -1,21 +1,8 @@
 {
-  "root": "",
-  "entrypoint": "td-button.js",
-  "shell": "td-button.js",
-  "extraDependencies": [],
-  "moduleResultion": "node",
   "npm": true,
   "lint": {
     "rules": [
       "polymer-3"
     ]
-  },
-  "builds": [
-    {
-      "name": "dev",
-      "js": {"minify": false, "compile": false },
-      "css": {"minify": false },
-      "html": {"minify": false },
-      "bundle": true
-  }]
+  }
 }

@@ -1,21 +1,17 @@
-# \<td-button\>
-
 Tadow's button element
 
-## Install the Polymer-CLI
+`<td-button>Tadow button</td-button>`
 
-First, make sure you have the [Polymer CLI](https://www.npmjs.com/package/polymer-cli) and npm (packaged with [Node.js](https://nodejs.org)) installed. Run `npm install` to install your element's dependencies, then run `polymer serve` to serve your element locally.
+## Getting started
 
-## Viewing Your Element
+#### Install
 
+npm
+`npm install @tadow/`
+
+```html
+...
+
+
+...
 ```
-$ polymer serve
-```
-
-## Running Tests
-
-```
-$ polymer test
-```
-
-Your application is already set up to be tested via [web-component-tester](https://github.com/Polymer/web-component-tester). Run `polymer test` to run your application's test suite locally.
